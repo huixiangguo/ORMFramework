@@ -1,0 +1,8 @@
+F:\Repo\ORMAPI\ORMFramework\EntityStandard\bin\Debug\netstandard2.0\EntityStandard.deps.json
+F:\Repo\ORMAPI\ORMFramework\EntityStandard\bin\Debug\netstandard2.0\EntityStandard.dll
+F:\Repo\ORMAPI\ORMFramework\EntityStandard\bin\Debug\netstandard2.0\EntityStandard.pdb
+F:\Repo\ORMAPI\ORMFramework\EntityStandard\obj\Debug\netstandard2.0\EntityStandard.csproj.CoreCompileInputs.cache
+F:\Repo\ORMAPI\ORMFramework\EntityStandard\obj\Debug\netstandard2.0\EntityStandard.AssemblyInfoInputs.cache
+F:\Repo\ORMAPI\ORMFramework\EntityStandard\obj\Debug\netstandard2.0\EntityStandard.AssemblyInfo.cs
+F:\Repo\ORMAPI\ORMFramework\EntityStandard\obj\Debug\netstandard2.0\EntityStandard.dll
+F:\Repo\ORMAPI\ORMFramework\EntityStandard\obj\Debug\netstandard2.0\EntityStandard.pdb
